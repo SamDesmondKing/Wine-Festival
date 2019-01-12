@@ -1,0 +1,1 @@
+Simple table exercise for CodeCademy involving HTML and CSS.
